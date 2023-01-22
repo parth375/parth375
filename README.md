@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Parth.
 - 💞️ I’m looking to explore new technologies.
-- - 👀 I’m interested in Web Development and Competitive Programming.
-- - 🌱 I’m currently pursuing Bachelor's Of Technology (CSE) from Vellore Institute Of Technology (VIT).
+- 👀 I’m interested in Web Development and Competitive Programming.
+- 🌱 I’m currently pursuing Bachelor's Of Technology (CSE) from Vellore Institute Of Technology (VIT).
 
 
 <!---
