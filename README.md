@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Parth.
+- 👋 Hi, I’m Parth Chauhan.
 - 💞️ I’m looking to exploring and learning about new technologies.
-- 👀 I’m interested in Problem Solving .
-- 🌱 I’m currently pursuing Bachelor's Of Technology (CSE) from Vellore Institute Of Technology (VIT).
+- 👀 I’m interested in Creating and Building Programms.
+
 
 
 <!---
