@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Parth Chauhan.
-- 💞️ I’m looking to exploring and learning about new technologies.
-- 👀 I’m interested in Creating and Building Programms.
+- 🕶 Hi, I’m Parth Chauhan.
+- ❔ No Idea about what am I Doing here.
 
 
 
